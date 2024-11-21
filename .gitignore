@@ -1,0 +1,15 @@
+*/README.md
+*/.gitlab-ci.yml
+*/src/test
+!HW5/src/test
+
+target
+*.iml
+.idea
+.metals/
+.vscode/
+.history/
+.bloop/
+metals.sbt
+.DS_Store
+.bsp/
