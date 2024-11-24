@@ -57,9 +57,11 @@
 Одни из моих любимых докладов:
 
 - [Иван Лягаев о передаче контекста запроса внутри приложения](https://youtu.be/fR0hj-Lz1Vc?si=7lAxe62oPfGjBaN_)
+
     Иван является лектором на нашем курсе и его доклад также будет на `F[Scala] 2024`,
     поэтому очень хотел бы его увидеть
 - [Олег Нижников о системах эффектов](https://youtu.be/jRVvj_2yWkE?si=sZSopD5q6bZ_l73o)
 - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://youtu.be/7VSVfQcaxFY?si=vXhtOUUblKodn1pE)
+
     Не совсем доклад, но хорошая реклама поддерживаемости кода на Scala
 - [Объяснение виртуальных потоков в Java 21 от официального канала](https://youtu.be/5E0LU85EnTI?si=UYwYa1YsG7Ph7k_Y)
