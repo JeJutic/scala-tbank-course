@@ -10,10 +10,13 @@ object Dependencies {
   val jwtCore = "com.github.jwt-scala" %% "jwt-core" % "10.0.1"
 
   val http4sVersion = "0.23.29"
+
   val http4s: Seq[ModuleID] = Seq(
     "org.http4s" %% "http4s-ember-client" % http4sVersion,
     "org.http4s" %% "http4s-ember-server" % http4sVersion,
-    "org.http4s" %% "http4s-dsl"          % http4sVersion,
+    "org.http4s" %% "http4s-dsl"          % http4sVersion
   )
+
+  val pureConfig = "com.github.pureconfig" %% "pureconfig-generic-scala3" % "0.17.8"
 
 }

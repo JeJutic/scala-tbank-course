@@ -36,7 +36,8 @@ lazy val gateway = project
     libraryDependencies ++= Seq(
       catsCore,
       catsEffect,
-      jwtCore
+      jwtCore,
+      pureConfig
     ) ++ http4s
   )
 
